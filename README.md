@@ -1,2 +1,2 @@
 # cpp_base64
-Program który zamienia znaki algorytmem base64. Wczytuje znaki z pliku. 
+A simple program that uses the base64 algorithm to encode characters and write them to a file.
